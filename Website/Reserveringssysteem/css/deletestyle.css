@@ -1,0 +1,14 @@
+body {
+    background: url("img/red.png") no-repeat;
+    background-size: cover;
+}
+.btn{
+    background-color: #191241;
+    border: 2px solid #191241;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+    border-radius: 12px;
+}

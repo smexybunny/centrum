@@ -1,0 +1,132 @@
+body {
+    background: url("img/red.png") no-repeat;
+    background-size: cover;
+    padding-left: 50px;
+}
+
+h1 {
+    color: #191241;
+    font-size: 50px;
+}
+label {
+    color: white;
+    display: inline-block;
+    width: 200px;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: #191241;
+    border: 2px solid #191241;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+    border-radius: 12px;
+}
+#naam {
+    color: white;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+#naam input {
+    border: none;
+    outline: none;
+
+}
+#telefoonnummer {
+    color: white;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+#telefoonnummer input {
+    border: none;
+    outline: none;
+
+}
+#email {
+    color: white;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+#email input {
+    border: none;
+    outline: none;
+
+}
+#dd-mm-jjjj {
+    font-family: sans-serif;
+    color: white;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+#dd-mm-jjjj input {
+    border: none;
+    outline: none;
+
+}
+#tijd {
+    font-family: sans-serif;
+    color: white;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+#tijd input {
+    border: none;
+    outline: none;
+
+}
+#personen {
+    color: white;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+#personen input {
+    border: none;
+    outline: none;
+
+}
+#opmerkingen {
+    color: white;
+    width: 300px;
+    height: 100px;
+    background: none;
+    border: 2px solid #191241;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+
+}
+#opmerkingen input {
+    border: none;
+    outline: none;
+}
+.success {
+    color: white;
+}

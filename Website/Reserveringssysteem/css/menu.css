@@ -1,0 +1,45 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url("img/yellow.png") no-repeat;
+    background-size: cover;
+}
+
+nav{
+    background: #191241;
+    height: 80px;
+    width: 100%;
+    float: right;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+
+}
+nav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 41px 20px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav ul a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+nav ul a.active {
+    background-color: #2F227A;
+    color: white;
+}
+h1 {
+    color: #191241;
+    font-size: 100px;
+    text-align: center;
+}
